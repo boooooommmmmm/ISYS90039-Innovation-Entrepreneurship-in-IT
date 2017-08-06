@@ -51,3 +51,9 @@ If you get a process don't perform, don't try to fix it. Throw out and start out
 * Soon became synonymous with staff cuts, outsourcing, and off-shoring.<br />
 * IT support new processes took a long time to create.<br />
 * many failures <br />
+
+<hr>
+
+
+
+END
