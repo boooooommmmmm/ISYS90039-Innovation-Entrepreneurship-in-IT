@@ -41,5 +41,7 @@ Popuplar for starting the business.
 * meet the needs of largecustomers
 * New technology
 * bring a new job to be done
+* Defendagainst new, low-end competition
+* Respondto a shifting basis of competition 
 
-(picture here)
+![week8_1.png](PIC/week8_1.png)
