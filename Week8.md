@@ -17,12 +17,9 @@ Airbnb, uber, container shipping, Xerox
 
 **A business model is a descripation how an organisation creates, delivers and captures economic value.**
 
->>>>>>> c39b51a72008366900ab2809e2f654fe16a573bc
 
 
 
-
-<<<<<<< HEAD
 
 ### Business Model Canvas
 
@@ -30,7 +27,7 @@ Airbnb, uber, container shipping, Xerox
 
 Useful for starting business
 
-connection of innovation and enterpurnaship
+connection of innovation and entrepreneurship
 
 =======
 ### Model canvas
@@ -64,4 +61,13 @@ Popuplar for starting the business.
 * Respondto a shifting basis of competition 
 
 ![week8_1.png](PIC/week8_1.png)
->>>>>>> c39b51a72008366900ab2809e2f654fe16a573bc
+
+
+
+
+
+
+
+-----
+
+END
