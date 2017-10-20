@@ -2,7 +2,15 @@
 
 This week is talking about entrepreneurship and business pivote and entrepreneurship  exercise.
 
+#### Exam part: 
+
+**Tool: Customer development process**
+
+**Concept: Lean startup, Pivot, Customer development**
+
 <br />
+
+
 
 * new small businesses are copying existing business...
 
@@ -20,7 +28,12 @@ This week is talking about entrepreneurship and business pivote and entrepreneur
 
 
 
+### Customer development process
 
+1. Customer Discovery
+2. Customer Validation
+3. Customer Creation
+4. Company Building
 
 
 
@@ -30,7 +43,7 @@ go out, open mind,
 
 to talk with customers
 
-
+![2](PIC/week9_2.png)
 
 **Customer Development**
 
@@ -52,7 +65,20 @@ to talk with customers
 
 
 
-pivote
 
-changes to add more component in business model.
+### Pivote
+
+Changes to add more component in business model.
+
+Shift one or more parts of business model to do something else.
+
+
+
+Examples:
+
+Facemash -> Facebook
+
+Confinity (cryptography) -> PayPal
+
+Video dating site -> YouTube
 

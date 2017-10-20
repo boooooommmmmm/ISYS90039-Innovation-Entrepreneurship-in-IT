@@ -2,4 +2,3 @@
 <hr>
 This is the lecture notes for ISYS90039-Innovation-Entrepreneurship-in-IT.
 
-Don't like this subject at all...
