@@ -91,7 +91,23 @@ Acquisition、Activation、Retention、Revenue、Refer. 这个五个单词的缩
 
 
 
+## Pivot
 
+When to pivot: 
+
+* Exhausted your pursuit of productmarket fit with your current product or market.
+* Pivoting can be expensive, but not pivoting can be even more expensive
+
+
+
+
+
+**How do we know what to change?**
+
+* customers show us: follow the data and the users
+* change the customers or change the problem but just one at a time.
+* Define measures of success/failure before testing.
+* Test, Test.
 
 ----
 
