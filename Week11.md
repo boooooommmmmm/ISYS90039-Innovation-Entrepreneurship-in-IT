@@ -95,7 +95,7 @@ When to pivot:
 
 * Exhausted your pursuit of productmarket fit with your current product or market.
 * Pivoting can be expensive, but not pivoting can be even more expensive
-<br />
+  <br />
 
 
 
