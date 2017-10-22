@@ -51,13 +51,13 @@ Some people are more innovate, some are more adapts.
 
 When come to a problem
 
-```
-| Facet         | Adaptors           | Innovators  |
-| ------------- |:-------------:| ---------:|
-| Originality   | Few solutions, most can be implemented | Many solutions, most of are impractical |
-| Efficiency    | Clear about goal, process step by step| No detail. May do not know the goal|
-| Governace     |Socially acceptable|Ignore the rules|	
-```
+
+| Facet       |                Adaptors                |               Innovators                |
+| ----------- | :------------------------------------: | :-------------------------------------: |
+| Originality | Few solutions, most can be implemented | Many solutions, most of are impractical |
+| Efficiency  | Clear about goal, process step by step |   No detail. May do not know the goal   |
+| Governace   |          Socially acceptable           |            Ignore the rules             |
+
 
 * Not good for a company with all innovators, and easy to fail. 
 * Adaptors and innovators no better. Depends on the situation.
