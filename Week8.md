@@ -2,13 +2,26 @@
 
 
 
-<<<<<<< HEAD
+Exam part
+
+Tools: 
+
+Business model canvas
+
+Jobs-to-be-done analysis
+
+Concept:
+
+Business model innovation
+
+
 
 
 
 
 ## Business Model
-=======
+
+
 ## Model
 
 The third kind of innovation(product, process).
