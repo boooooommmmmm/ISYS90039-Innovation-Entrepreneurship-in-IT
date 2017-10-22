@@ -1,6 +1,30 @@
 # Week7
 
+This week is talking about products innovation
 
+<br />
+
+<br />
+
+### Exam part
+
+**Tools:**
+
+Ansoff matrix
+
+**Concept:**
+
+Product innovation
+
+User innovation
+
+Lead user approach
+
+Path dependency
+
+<br />
+
+<br />
 
 ## Models of innovation
 

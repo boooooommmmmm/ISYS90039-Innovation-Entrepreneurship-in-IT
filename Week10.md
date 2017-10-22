@@ -4,19 +4,21 @@ This week is talking about lean process and negotiation exercise.
 
 
 
-#### Exam part:
+### Exam part:
 
 **Tool: **
 
-**Prioritising Leap of Faith Opportunities, **
+Prioritising Leap of Faith Opportunities
 
-**Negotiation process, **
+Negotiation process, 
 
-**Service logic business model canvas**
+Service logic business model canvas
 
+**Concept: **
 
+Lean canvas, 
 
-**Concept: Lean canvas, Leap‐of‐faith assumptions**
+Leap‐of‐faith assumptions
 
 
 

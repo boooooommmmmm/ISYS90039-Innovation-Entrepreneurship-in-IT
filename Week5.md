@@ -18,7 +18,7 @@ Product innovation
 
 Open innovation
 
-Customer 
+Customer knowledge
 
 <hr>
 

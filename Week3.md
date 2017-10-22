@@ -1,5 +1,5 @@
 # Week 3
-This week is talking about business process
+This week is talking about business process and parking meter exercise.
 
 <br/>
 
@@ -19,6 +19,10 @@ Hype cycle
 
 manufacture goods: products innovation at first then process innovation.
 services: process innovation at first then products innovation.
+
+<br />
+
+![1](PIC/week3_1.png)
 
 ## Internal process innovation
 
@@ -59,6 +63,8 @@ If the technology is certain -> the uncertain is entrepreneur themself.
 
 
 ### Change in process performance
+
+<br />
 
 
 ## New external process innovation: outward-facing system

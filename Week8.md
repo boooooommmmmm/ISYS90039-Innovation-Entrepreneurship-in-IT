@@ -1,16 +1,18 @@
 # Week 8
 
+This week is talking about Business Model Canvas.
 
+<br />
 
-Exam part
+### Exam part
 
-Tools: 
+**Tools:** 
 
 Business model canvas
 
 Jobs-to-be-done analysis
 
-Concept:
+**Concept:**
 
 Business model innovation
 

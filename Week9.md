@@ -4,9 +4,13 @@ This week is talking about entrepreneurship and business pivote and entrepreneur
 
 #### Exam part: 
 
-**Tool: Customer development process**
+**Tool: **
 
-**Concept: Lean startup, Pivot, Customer development**
+Customer development process
+
+**Concept: **
+
+Lean startup, Pivot, Customer development
 
 <br />
 
