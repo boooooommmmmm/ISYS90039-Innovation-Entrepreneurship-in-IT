@@ -1,7 +1,25 @@
 # Week 5
 
-<hr>
-Open innovation  and  Customer knowledge
+This week is talking about open innovation  and  Customer knowledge
+
+<br />
+
+<br />
+
+### Exam part
+
+**Tools:**
+
+Ansoff matrix
+
+**Concept**
+
+Product innovation
+
+Open innovation
+
+Customer 
+
 <hr>
 
 ### Open innovation 

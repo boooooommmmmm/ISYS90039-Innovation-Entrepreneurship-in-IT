@@ -1,10 +1,17 @@
 # Week 3
-<br/>
-<br/>
-<hr>
+This week is talking about business process
 
-**This week is discussing about business poress**
-<hr>
+<br/>
+
+### Exam part
+
+**Concept**
+
+Diffusion of innovation
+
+Hype cycle
+
+
 <br/>
 <br/><br/>
 <br/>
@@ -72,3 +79,9 @@ Problem: should pay attention to security/complexity/privacy and lack of human i
 Case study: evaluation of parking meter
 
 -> The change of customer/CFO/Council officer maintains process in different ages.
+
+
+
+---
+
+END

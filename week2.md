@@ -1,4 +1,37 @@
+# Week 2
+
+This week is talking about business process
+
+<br />
+
+<br />
+
+#### Exam part:
+
+**Tools:**
+
+Processing map
+
+Concept:
+
+Business processes
+
+Process innovation
+
+Diffusion of innovation 
+
+Reengineering
+
+Hype cycle
+
+
+
+<br />
+
+<br />
+
 ### What is business process
+
 “**a structured, measured set of activities designed to produce a specific output for a particular customer or market.** It implies a strong emphasis on how work is done within an organization, in contrast to a product focus’s emphasis on what. A process is thus a specific **ordering of work activities** across time and space, with a beginning and an end, and clearly **defined inputs and outputs**: a structure for action. Processes are the structure by which an organisation does what is necessary to produce value for its customers.” 
 <br />
 

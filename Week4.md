@@ -1,9 +1,25 @@
-<hr>
-<hr>
-This lecture is talking about how to choose a gift and design think
+# Week 4
 
-<hr>
-<hr>
+This lecture is talking about how to choose a gift and design think.
+
+<br />
+
+### Exam part
+
+**Tools:**
+
+Design thinking process
+
+**Concept:**
+
+Design thinking
+
+Business simplification
+
+<br />
+<br />
+
+<br />
 
 ## Design thinking
 
