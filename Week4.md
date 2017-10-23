@@ -1,6 +1,6 @@
 # Week 4
 
-This lecture is talking about how to choose a gift and design think.
+This lecture is talking about how to choose a gift and design thinking.
 
 <br />
 
@@ -25,35 +25,67 @@ Business simplification
 
 A human centred, creative problem seeking & solving framework that draws on the skills and mindsets of a designer.
 
+* Great tool for if do not understand the problems or solutions.
+
+
 * Desirability -> people desire?
-* Viability -> can we earn money?
 * Feasibility -> can we overcome technical problems? 
+* Viability -> can we earn money?
+
+<br />
 
 ### Different Thinking of business thing and design thing
 
-* Mulity problems to one solution
+* Multiple problems to one solution
 * get understood and get more problems and get more solutions
 
 ### Design Thinking Principles
 
-* Empathy
-* Modelling
+* Empathy -> put yourself into others situations; trying to understand what other people is experiencing.
+* Modelling -> physics, digital model
 * Prototyping
 * Tolerance for failure
 * Restraint
 
 ### Design Thinking process
 
-* Empathize -> learn
-* Define -> create
-* Ideate -> Brainstorm
-* Prototype -> Build representation
-* Test -> share
-* If test not passes might go back to step X.
+* Empathize -> learn (who is user? what matter they have?)
+* Define -> create a view of needs
+* Ideate -> Brainstorm (solutions)
+* Prototype -> Build representation (how to show ideas)
+* Test -> share prototyped
+* If test not passes might go back to ideate.
 
 
-![](PIC/week4_1.JPG)
+![1](PIC/week4_1.JPG)
 
-![](/PIC/week4_2.JPG)
+* "What are we really trying to achieve"
 
-![](PIC/week4_3.JPG)
+![2](/PIC/week4_2.JPG)
+
+
+
+* Strat with current process and document them (have lots of missing processes and gaps, have problems...). we can learn what the problems are. First goal: how to improve it?
+
+* Then improve them.
+
+* Know what we are going to achieve and what good processes are then Redesigned.
+
+* Adding understanding and information to the process.
+
+* Get something to start building some technologies system for. And get ideas what we can do in future.
+
+  (Reengineering means do not improve.)
+
+
+
+![3](PIC/week4_3.JPG)
+
+
+
+1. What it the key things; what are elements
+2. Document the processes, find out issues
+3. What actually we trying to do
+4. componentise process
+5. What information 
+6. How to achieve
