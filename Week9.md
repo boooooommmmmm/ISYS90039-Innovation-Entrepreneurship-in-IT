@@ -76,6 +76,8 @@ Changes to add more component in business model.
 
 Shift one or more parts of business model to do something else.
 
+Pivot is redeeming the failure.
+
 
 
 Examples:
