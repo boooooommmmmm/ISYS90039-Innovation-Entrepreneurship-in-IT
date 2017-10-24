@@ -1,6 +1,6 @@
 # Week7
 
-This week is talking about products innovation
+This week is talking about products innovation and product development thinking exercise.
 
 <br />
 
@@ -24,23 +24,15 @@ Path dependency
 
 <br />
 
+<hr>
+
 <br />
 
-## Models of innovation
+<br />
 
-1. Producer
-2. User
-3. Open collaborative
-4. Trends
-   1. Falling communication cost
-   2. Falling design cost
-   3. Increasing modularity
+**Risk = probability of failure * consequence**
 
-
-
-
-
-Risk = probability of failure * consequence
+New markets and new products have high probability of failure.
 
 
 
@@ -52,27 +44,31 @@ Risk = probability of failure * consequence
 
 ![week7_1.png](./PIC/week7_1.png)
 
+Don't do it by yourself, find somebody to do it for you. there is some innovators, new place which you can take your project outside of your organisation. => Put this new project out, somewhere else. => "I can help you with it!"
 
+<br />
 
-
-
-### Business model innovation
+<br />
 
  
 
-Ask right question to discover what they want to achieve
+
 
 
 
 ##Path dependency 
 
-Every decision you make determines what you CAN and CANNOT do both now and in the future.
+Ask right question to discover what they want to achieve...
+
+The past decisions can influence future decisions and options. 
+
+Every decision you make determines what you CAN and CANNOT do both now and in the future. 
 
 
 
 ### TACIT knowledge 
 
-also called information knowledge ->默契的知识？
+also called information knowledge ->心照不宣的知识？
 
 Unwritten, unspoken, and hidden vast storehouse of knowledge held by practically every normal human being
 
@@ -85,54 +81,51 @@ Unwritten, unspoken, and hidden vast storehouse of knowledge held by practically
 Articulated
 knowledge, expressed and recorded … is easy to communicate, store, share and distribute
 
+<br />
 
-
-
+<br />
 
 ### Closed / open paradigm for managing industrial R&D 
 
-outside / inside the organisation
-
-Open: outside -> ideas, people, entire innovation
-
+* outside in / inside out
+* Open: outside -> ideas, people, entire innovation (Lego,)
 
 
 
 
 
 
-### Lead User (Super users)
 
-Take ideas for needs and solutions from people at the leading edge of markets (“lead users”) instead of customers at random
+## Lead User (Super users)
 
-get the benefits from a solution -> motivated to innovate
+* Two characteristics: High need user, get the benefits at first time when get innovate
+* Big idea: talk with the best customers. Take ideas for needs and solutions from people at the leading edge of markets (“lead users”) instead of customers at random
+* get the benefits from a solution -> motivated to innovate
+* high needs users -> fit needs first
+* novel ideas
 
-high needs users -> fit needs first
-
-novel ideas
-
-**Collection information form user**
+### Collection information form user
 
 * pyramid of expertise
 * workshops
 
 
-
-**Organisation concerns**
+### Organisation concerns
 
 * Developing incompatible products -> might not be able to make it
 * IP -> no IP issue
 * Time and effort required -> more expensive
 
 
-
-**Learn from 3M**
+### Learn from 3M
 
 * LU ideas are more novel than non-LU ideas -> Useless to talk with normal customers
 * LU ideas have projected sales 8 times higher than non-LU ideas
 * LU ideas fit criteria for new major product lines, non-LU ideas were generally incremental improvements
 * No differences in compatibility or IP protection, but LU ideas cost three times more than non-LU ideas
 
+
+<br />
 
 
 ### user communities 
@@ -151,13 +144,23 @@ people who interesting in something like open source software...
 
 ### User Innovation
 
-Many users develop or modify products,but only some become manufacturers – opportunity costs matter
+Many users develop or modify products,but only some become manufacturers – **opportunity costs** matter
 
-User innovators -> user communities-> user manufacturers =>Designs,community, and prototyping
-
-
+User innovators -> user communities-> **user manufacturers** =>Designs,community, and prototyping
 
 
+
+## Models of innovation
+
+1. Producer
+2. User
+3. Open collaborative
+4. Trends
+   - Falling communication cost
+   - Falling design cost
+   - Increasing modularity
+
+<br />
 
 ----
 
