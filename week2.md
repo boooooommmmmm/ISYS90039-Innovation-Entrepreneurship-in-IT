@@ -83,11 +83,10 @@ When turn to services, it inverse. Process innovation at the beginning, latter p
 
 ### Reengineering
 
--> If you get a process don't perform, don't try to fix it. Throw out and start out a new one. <br /> 
--> 业务流程重组  <br /> 
--> very popular at the beginning.  -> 75% largest companies in the USA use it.
-
-->not use it anymore.<br /> 
+* If you get a process don't perform, don't try to fix it. Throw out and start out a new one. <br />
+* 业务流程重组  <br />
+* Very popular at the beginning.  -> 75% largest companies in the USA use it.
+* not use it anymore.<br /> 
 
 **Why do we not use it?**
 

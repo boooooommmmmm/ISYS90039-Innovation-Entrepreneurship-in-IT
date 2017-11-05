@@ -50,10 +50,6 @@ Don't do it by yourself, find somebody to do it for you. there is some innovator
 
 <br />
 
- 
-
-
-
 
 
 ##Path dependency 
@@ -98,7 +94,7 @@ knowledge, expressed and recorded … is easy to communicate, store, share and d
 
 ## Lead User (Super users)
 
-* Two characteristics: High need user, get the benefits at first time when get innovate
+* Two characteristics: High need user; get the benefits at first time when get innovate
 * Big idea: talk with the best customers. Take ideas for needs and solutions from people at the leading edge of markets (“lead users”) instead of customers at random
 * get the benefits from a solution -> motivated to innovate
 * high needs users -> fit needs first

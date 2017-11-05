@@ -94,9 +94,7 @@ Network effects
 
   <br> 
 
-  <br> 
-
-  ?
+  <br>
 
   ![1](PIC/week1_1.JPG)
 
@@ -182,7 +180,7 @@ cut-off line, I don't know what is going on for following notes....
 
 ## Whether, When, and How to Innovate with IT
 Mindful: attending to an innovation with reasoning grounded in an organisation’s own facts and circumstances, examining the claims for the benefits of an innovation in light of the organisation’s particular situation.
-<br> 
+<br>
 
 ->根据自身组织的情况来进行创新和研究。
 <br> 
@@ -190,14 +188,6 @@ Mindful: attending to an innovation with reasoning grounded in an organisation’
 * Mindless:  being content with “everyone is doing it” as a rationale for adoption, and accepting innovations promoted by consultants and by CEOs who encounter fashionable ideas.
 * Goal: be a prudent and discerning innovator 
 
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 <br>
 

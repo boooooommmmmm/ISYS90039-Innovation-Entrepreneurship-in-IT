@@ -17,9 +17,6 @@ Design thinking
 Business simplification
 
 <br />
-<br />
-
-<br />
 
 ## Design thinking
 
@@ -89,3 +86,9 @@ A human centred, creative problem seeking & solving framework that draws on the 
 4. componentise process
 5. What information 
 6. How to achieve
+
+
+
+---
+
+END

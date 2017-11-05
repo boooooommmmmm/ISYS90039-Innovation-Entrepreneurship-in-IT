@@ -11,8 +11,8 @@ Diffusion of innovation
 
 Hype cycle
 
+---
 
-<br/>
 <br/><br/>
 <br/>
 
@@ -32,11 +32,14 @@ services: process innovation at first then products innovation.
 
 * You are uncertain about technologies
 * Design is important
-* ​
+
+
+<br />
+
 
 ### Process diffusion
 
-If the technology is certain -> the uncertain is entrepreneur themself.
+If the technology is certain -> the uncertain is entrepreneur themselves.
 
 * Organisational uncertainty
 * Relevance
@@ -67,7 +70,7 @@ If the technology is certain -> the uncertain is entrepreneur themself.
 <br />
 
 
-## New external process innovation: outward-facing system
+### New external process innovation: outward-facing system
 
 -> To let the customers (suppliers and partners) and companies interact directly.
 
@@ -76,11 +79,7 @@ Example: custom design products. like ..
 Problem: should pay attention to security/complexity/privacy and lack of human interaction -> bad user experience.
 
 
-
-
-
-
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 <hr>
 Case study: evaluation of parking meter
 

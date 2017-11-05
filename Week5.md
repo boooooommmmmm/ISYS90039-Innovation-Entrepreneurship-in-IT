@@ -50,7 +50,7 @@ Innovation not only inside of organisation. People tried, and satisfied in it.
 
 * Customer knowledge = understanding customers’ preferences
 * Pre-launch
-* Post-launch (pre is better)
+* Post-launch (pre-lunch is better)
 
 <br />
 
