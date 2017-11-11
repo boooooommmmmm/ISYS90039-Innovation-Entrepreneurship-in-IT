@@ -39,7 +39,8 @@ services: process innovation at first then products innovation.
 
 ### Process diffusion
 
-If the technology is certain -> the uncertain is entrepreneur themselves.
+* If the technology is certain -> the uncertain is entrepreneur themselves.
+
 
 * Organisational uncertainty
 * Relevance

@@ -62,7 +62,7 @@ Airbnb, uber, container shipping, Xerox
 
 ### Needs for new business model
 
-* meet the needs of largecustomers
+* meet the needs of large customers
 * New technology
 * bring a new job to be done
 * ​
