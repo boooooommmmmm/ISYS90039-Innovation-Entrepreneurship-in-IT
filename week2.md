@@ -43,19 +43,18 @@ During design the process, we need to think:
 
 Improving the way you do the business/New technology. - Have more frequency and less degree of change. ->assembly line
 
-**Business model innovation:** 
-
-Launching a new business. - Have lower frequency and more degree of change.
-
 **Product/services innovation:** 
 
 Commercial products and new offerings for customers. - frequency and degree of change in the middle.
-<br />
+
+**Business model innovation:** 
+
+Launching a new business. - Have lower frequency and more degree of change.<br />
 
 
 ### Make process better
 
-Auto, prefill, make system stable, 
+Automatic, prefill, make system stable, 
 
 ### why process chart is import?
 under control, in IT need be clear flow between computer and human in process. 
@@ -102,11 +101,12 @@ If you get a process don't perform, don't try to fix it. Throw out and start out
 
 <br />
 
-If in the internal process innovation: -> not consider about external things
-Current performance: Time, Quality, Cost, Flexibility—>the availability of changing input/output (可以接受新的output的程度)
-, etc.
-Improvement practices: Resequencing, Set-up time reduction, JIT supplies, “Informating” ->  It is the process that translates descriptions and measurements of activities, events and objects into information. By doing so, these activities become visible to the organization.<br /> 
-->when producing a product, it will also produce the information about themselves. (translating information into action also register data about those automated activities) 
+### How to do process innovation
+
+* If in the internal process innovation: -> not consider about external things
+* Current performance: Time, Quality, Cost, Flexibility—>the availability of changing input/output (可以接受新的output的程度), etc..
+* Improvement practices: Resequencing, Set-up time reduction, JIT supplies, “Informating” ->  It is the process that translates descriptions and measurements of activities, events and objects into information. By doing so, these activities become visible to the organization.<br />
+* when producing a product, it will also produce the information about themselves. (translating information into action also register data about those automated activities) 
 
 
 
